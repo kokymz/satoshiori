@@ -1,10 +1,10 @@
 {
-  "name": "shiori",
-  "description": "shiori",
+  "name": "bot",
+  "description": "bot",
   "version": "0.0.0",
-  "main": "shiori.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node shiori.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
