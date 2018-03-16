@@ -1,1 +1,1 @@
-worker: node shiori.js
+worker node shiori.js
