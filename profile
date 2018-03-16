@@ -1,1 +1,1 @@
-worker: python <shiori>.py
+worker: node shiori.js
